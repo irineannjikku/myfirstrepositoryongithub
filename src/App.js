@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         This is a project done by Irine
-        </p>
+         This is a project done by Irine & Aelan
+         </p>
         <a
           className="App-link"
           href="https://reactjs.org"
